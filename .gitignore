@@ -3,3 +3,4 @@ results/
 images/
 sample/
 __pycache__/
+credentials.py
