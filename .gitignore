@@ -4,3 +4,4 @@ images/
 sample/
 __pycache__/
 credentials.py
+azure_face_detection/
