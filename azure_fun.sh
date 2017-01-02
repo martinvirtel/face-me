@@ -1,7 +1,7 @@
 #! /bin/bash
 
 echo Detected/Undetected:
-ls -l azure_face_detection/*json | counter.py 'martin [ 1]' | sed '1d;s/martin 1/detected/;s/martin  /undetected/'
+ls -l azure_face_detection/*json | counter.py 'martin [ 123]' | sed '1d;s/martin 1/detected/;s/martin  /undetected/'
 
 
 echo Age distribution:
